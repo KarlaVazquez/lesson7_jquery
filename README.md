@@ -4,19 +4,16 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+March 30th, 2017 
 
 ### Student Name:  
-(First and Last Name)
+Karla Vazquez
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
-
+This project helped me understand how to implement jquery into our programs. 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned what jquery is and how to use it in my code. 
+2. I learned how to specify event handlers. 
+3. I learned that there are many ways and methods to looking up and setting values.  
